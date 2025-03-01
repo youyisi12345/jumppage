@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://aa.com$1",
+      "permanent": true
+    }
+  ]
+}

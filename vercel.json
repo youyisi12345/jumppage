@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://bb201a231.181933.xyz/%E8%AF%97%E7%BB%8F/%E5%85%B3%E9%9B%8E.html$1",
-      "permanent": true
-    }
-  ]
-}
